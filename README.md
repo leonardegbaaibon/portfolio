@@ -64,7 +64,7 @@ Interactive 3D models using **Spline Viewer** for a captivating visual experienc
 ## 📂 Featured Projects
 
 ### Spacepay Lab
-![Spacepay Lab](./assets/Image/spacepaylab.png)  
+![Spacepay Lab](.src//assets/Image/spacepaylab.png)  
 **Overview:** Designed and developed mobile solutions for efficient payment systems.  
 
 ---
