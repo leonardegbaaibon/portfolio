@@ -70,13 +70,13 @@ Interactive 3D models using **Spline Viewer** for a captivating visual experienc
 ---
 
 ### Gumshoe
-![Gumshoe](./assets/Image/gumshoe.png)  
+![Gumshoe](./src/assets/Image/gumshoe.png)  
 **Overview:** Created innovative solutions for telematics and IoT applications.  
 
 ---
 
 ### Mogroup
-![Mogroup](./assets/Image/Mogroup.png)  
+![Mogroup](./src/assets/Image/Mogroup.png)  
 **Overview:** Built scalable applications for logistics and management systems.  
 
 ---
